@@ -11,7 +11,7 @@ Still figuring things out, learning from real projects, and improving along the 
 
 ---
 
-### 🧠 About Me
+###  About Me
 
 - 📊 Mostly working on **data analysis and business intelligence**, both from coursework and real projects  
 - 🛠 Using **Python, SQL, dashboards, and simple models** to understand problems before jumping to solutions  
