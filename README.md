@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Muhammad Indra Darmawan</h1>
+<h1 align="center">Hi , I'm Muhammad Indra Darmawan</h1>
 
 <h3 align="center">
 Information Systems student who works with data, learns by doing, and builds things step by step.<br/>
