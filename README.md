@@ -13,10 +13,10 @@ Still figuring things out, learning from real projects, and improving along the 
 
 ###  About Me
 
-- 📊 Mostly working on **data analysis and business intelligence**, both from coursework and real projects  
-- 🛠 Using **Python, SQL, dashboards, and simple models** to understand problems before jumping to solutions  
-- 🤝 Trying to explain data in a way that makes sense, especially to people who don’t live in spreadsheets  
-- 🚀 Currently learning more about **applied machine learning and data-driven systems**, at my own pace
+- Mostly working on **data analysis and business intelligence**, both from coursework and real projects  
+- Using **Python, SQL, dashboards, and simple models** to understand problems before jumping to solutions  
+- Trying to explain data in a way that makes sense, especially to people who don’t live in spreadsheets  
+- Currently learning more about **applied machine learning and data-driven systems**, at my own pace
 
 ---
 
