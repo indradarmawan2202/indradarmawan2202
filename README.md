@@ -1,8 +1,8 @@
 <h1 align="center">Hi , I'm Muhammad Indra Darmawan</h1>
 
 <h3 align="center">
-Information Systems student who works with data, learns by doing, and builds things step by step.<br/>
-Interested in data analytics, business intelligence, and practical systems that actually get used.
+Information Systems student who works with data and web developmet, learns by doing, and builds things step by step.<br/>
+Interested in data analytics, business intelligence, web development and practical systems that actually get used.
 </h3>
 
 <p align="center">
