@@ -84,11 +84,11 @@ Still figuring things out, learning from real projects, and improving along the 
 
 ###
 
-<!-- Optional: pacman contribution graph. Requires the GitHub Action below. -->
+<!-- Contribution snake. Requires the "Generate Pacman Animation" GitHub Action (Platane/snk). -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/indradarmawan2202/indradarmawan2202/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/indradarmawan2202/indradarmawan2202/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/indradarmawan2202/indradarmawan2202/output/pacman-contribution-graph.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/indradarmawan2202/indradarmawan2202/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/indradarmawan2202/indradarmawan2202/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution snake" src="https://raw.githubusercontent.com/indradarmawan2202/indradarmawan2202/output/github-contribution-grid-snake.svg">
 </picture>
 
 ###
@@ -98,7 +98,7 @@ Still figuring things out, learning from real projects, and improving along the 
 </div>
 
 <p align="center">
-  🧩 Still learning, still building taking things one step at a time.
+  🧩 Still learning, still building — taking things one step at a time.
 </p>
 
 <p align="center">
