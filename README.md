@@ -98,7 +98,7 @@ Still figuring things out, learning from real projects, and improving along the 
 </div>
 
 <p align="center">
-  🧩 Still learning, still building — taking things one step at a time.
+  🧩 Still learning, still building taking things one step at a time.
 </p>
 
 <p align="center">
