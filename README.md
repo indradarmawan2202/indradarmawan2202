@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Muhammad Indra Darmawan</h1>
+<h1 align="center">Hi, I'm Muhammad Indra Darmawan</h1>
 
 <p align="center">
   <b>Information Systems student @ UNESA · Fullstack & AI Developer</b><br/>
@@ -14,15 +14,15 @@
   <img src="https://github-readme-stats.vercel.app/api?username=indradarmawan2202&rank_icon=github&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="165" />
 </p>
 
-## 🧑‍💻 About Me
+## About Me
 
-- 🎓 Information Systems student at **Universitas Negeri Surabaya (UNESA)**
-- 💼 Fullstack Developer at **CV Inovasi Datanusa (Ascendemy)** — building a CBT platform and its AI features: an LLM-based question generator and automated learning reports (Gemini / Groq API)
-- 🔬 Research interest: **NLP for Indonesian text** — transformer models (IndoBERT), learning with noisy labels, and retrieval-augmented generation (RAG)
-- 📊 Background in **data analysis & BI** — Python, SQL, and dashboards to understand a problem before jumping to a solution
-- 🗣️ I try to explain data in a way that makes sense to people who don't live in spreadsheets
+- Information Systems student at **Universitas Negeri Surabaya (UNESA)**
+- Fullstack Developer at **CV Inovasi Datanusa (Ascendemy)** — building a CBT platform and its AI features: an LLM-based question generator and automated learning reports (Gemini / Groq API)
+- Research interest: **NLP for Indonesian text** — transformer models (IndoBERT), learning with noisy labels, and retrieval-augmented generation (RAG)
+- Background in **data analysis & BI** — Python, SQL, and dashboards to understand a problem before jumping to a solution
+- I try to explain data in a way that makes sense to people who don't live in spreadsheets
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 | Area | Tools |
 |:--|:--|
@@ -33,7 +33,7 @@
 | **Database** | <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" /> <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" /> |
 | **Tools & Workflow** | <img src="https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white" /> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /> <img src="https://img.shields.io/badge/Docker-0DB7ED?style=for-the-badge&logo=docker&logoColor=white" /> <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge" /> <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" /> <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" /> |
 
-## 📫 Get in Touch
+## Get in Touch
 
 <p>
   <a href="https://www.linkedin.com/in/muhammad-indra-darmawan" target="_blank">
@@ -55,5 +55,5 @@
 
 <p align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=indradarmawan2202.indradarmawan2202" alt="visitors" /><br/>
-  <sub>🧩 Still learning, still building — one step at a time.</sub>
+  <sub>Still learning, still building — one step at a time.</sub>
 </p>
