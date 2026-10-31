@@ -1,48 +1,29 @@
-<h1 align="center">Hi 👋, I'm Muhammad Indra Darmawan</h1>
+## Muhammad Indra Darmawan
 
-<p align="center">
-  <b>Information Systems student @ UNESA · Fullstack & AI Developer</b><br/>
-  I work with data, NLP, and practical systems that actually get used.
-</p>
+Information Systems student at Universitas Negeri Surabaya (UNESA) and fullstack developer at CV Inovasi Datanusa (Ascendemy). Most of my work sits between data and software: building models, then building the systems that put them to use.
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=indradarmawan2202&theme=tokyonight" alt="Profile Details" height="195" />
-</p>
+### Now
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=indradarmawan2202&langs_count=8&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api?username=indradarmawan2202&rank_icon=github&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="165" />
-</p>
+- Building AI features for Ascendemy, a computer-based testing platform — LLM-based question generation and learning reports on top of the Gemini and Groq APIs.
+- Researching NLP for Indonesian text: transformer models (IndoBERT), learning with noisy labels, and retrieval-augmented generation.
 
-## 🧑‍💻 About Me
+### Background
 
-- 🎓 Information Systems student at **Universitas Negeri Surabaya (UNESA)**
-- 💼 Fullstack Developer at **CV Inovasi Datanusa (Ascendemy)** — building a CBT platform and its AI features: an LLM-based question generator and automated learning reports (Gemini / Groq API)
-- 🔬 Research interest: **NLP for Indonesian text** — transformer models (IndoBERT), learning with noisy labels, and retrieval-augmented generation (RAG)
-- 📊 Background in **data analysis & BI** — Python, SQL, and dashboards to understand a problem before jumping to a solution
-- 🗣️ I try to explain data in a way that makes sense to people who don't live in spreadsheets
+- Data analysis and business intelligence — Python, SQL, and dashboards, from coursework and real projects.
+- Web development — Laravel-based applications, from database design to the interface.
 
-## 🛠️ Tech Stack
+### Stack
 
-| Area | Tools |
-|:--|:--|
-| **Machine Learning & NLP** | <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" /> <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" /> <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" /> <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" /> <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" /> |
-| **Data Analysis** | <img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" /> <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" /> <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" /> |
-| **LLM Integration** | <img src="https://img.shields.io/badge/Gemini%20API-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" /> <img src="https://img.shields.io/badge/Groq%20API-F55036?style=for-the-badge" /> |
-| **Web Development** | <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" /> <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" /> <img src="https://img.shields.io/badge/Livewire-4E56A6?style=for-the-badge&logo=livewire&logoColor=white" /> <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" /> <img src="https://img.shields.io/badge/Tailwind%20CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" /> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css&logoColor=white" /> |
-| **Database** | <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" /> <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" /> |
-| **Tools & Workflow** | <img src="https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white" /> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /> <img src="https://img.shields.io/badge/Docker-0DB7ED?style=for-the-badge&logo=docker&logoColor=white" /> <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge" /> <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" /> <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" /> |
+- **ML & NLP:** Python, PyTorch, TensorFlow, scikit-learn, Hugging Face
+- **Data:** pandas, NumPy, Jupyter, SQL
+- **LLM:** Gemini API, Groq API
+- **Web:** PHP, Laravel, Livewire, JavaScript, Tailwind CSS, HTML, CSS
+- **Database:** MySQL, PostgreSQL
+- **Tools:** Git, Docker, VS Code, Notion, Figma
 
-## 📫 Get in Touch
+### Contact
 
-<p>
-  <a href="https://www.linkedin.com/in/muhammad-indra-darmawan" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:indra220205@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-  </a>
-</p>
+[LinkedIn](https://www.linkedin.com/in/muhammad-indra-darmawan) · [Email](mailto:indra220205@gmail.com)
 
 <br/>
 
@@ -52,8 +33,3 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/indradarmawan2202/indradarmawan2202/output/github-contribution-grid-snake.svg" />
   <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/indradarmawan2202/indradarmawan2202/output/github-contribution-grid-snake.svg" />
 </picture>
-
-<p align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=indradarmawan2202.indradarmawan2202" alt="visitors" /><br/>
-  <sub>🧩 Still learning, still building — one step at a time.</sub>
-</p>
